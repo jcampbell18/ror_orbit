@@ -27,4 +27,23 @@
 
 6. View/Show all client areas of success
 
-7/ The ability to view performance metrics
+7. The ability to view performance metrics
+
+## Tips
+
+### WSL
+
+#### Heroku
+
+- Installation
+   - `curl https://cli-assets.heroku.com/install.sh | sh`
+   
+- Credentials
+   - `heroku login`
+   
+- Create
+   - `heroku create`
+      - secret-peak-64851
+   - `git push heroku main`
+      - 
+
