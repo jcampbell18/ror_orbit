@@ -45,5 +45,9 @@
    - `heroku create`
       - secret-peak-64851
    - `git push heroku main`
-      - 
+      - https://secret-peak-64851.herokuapp.com/
 
+## Tutorial
+
+`rails new ror_orbit`
+`rails g controller HtmlPages home help`
