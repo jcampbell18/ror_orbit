@@ -51,3 +51,8 @@
 
 `rails new ror_orbit`
 `rails g controller HtmlPages home help`
+`git add -A`
+`git commit -m "added Html pages Controller`
+`git push -u origin html-pages`
+`rails db:migrate`
+`rails test`
